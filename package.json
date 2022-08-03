@@ -1,0 +1,18 @@
+{
+  "name": "user-list-table",
+  "version": "0.0.1",
+  "description": "this is simple js prac",
+  "main": "index.js",
+  "scripts": {
+    "build" : "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SAmirmuhammad",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
